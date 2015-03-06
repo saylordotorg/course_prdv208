@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV208: Information Management and Processing"
+course_description: "This course will provide you with a structured introduction to the key tools and techniques used in information management and processing, such as integrating content from various sources and constructing graphs to show data relationships that are often used to process and present information in business decision-making."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Integrating Spreadsheet Information and Processing with
 Word-Processing and Presentation Documents** <span id="7"></span> 
 *In this unit, you will examine how to integrate word-processing

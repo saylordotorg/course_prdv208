@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV208: Information Management and Processing"
+course_description: "This course will provide you with a structured introduction to the key tools and techniques used in information management and processing, such as integrating content from various sources and constructing graphs to show data relationships that are often used to process and present information in business decision-making."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Consolidating the Tools of Information Management and
 Processing** <span id="10"></span> 
 *In the final unit of this course, you will further develop your

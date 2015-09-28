@@ -193,3 +193,4 @@ course, by following the instructions to download the free software
 - [Unit 9](https://legacy.saylor.org/prdv208/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv208/Unit10/)
 - [Unit 11](https://legacy.saylor.org/prdv208/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV208/PRDV208-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV208/PRDV208-FinalExam-Answers.html)

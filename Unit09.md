@@ -199,7 +199,7 @@ Database Data** <span id="9.5.2"></span> 
      To demonstrate this feature, perform the following steps.  
       
      Enter the data in [this
-    table](http://www.saylor.org/site/wp-content/uploads/2013/01/Unit9Example.png)
+    table](https://resources.saylor.org/archived/wp-content/uploads/2013/01/Unit9Example.png)
     (PNG) into a database.  
      Export the table by using the process described in the sub-subunit
     9.5.1 video. Select the data and create a pie chart. Save the

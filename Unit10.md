@@ -93,7 +93,7 @@ pasting information from the website provided.*
 -   **Activity: The Saylor Foundation’s “My Congressional
     Representation”**
     Link: The Saylor Foundation’s [“My Congressional
-    Representation”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/PRDV208-10.2-My-Congressional-Representation-Activity-FINAL.pdf)
+    Representation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/PRDV208-10.2-My-Congressional-Representation-Activity-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and complete this

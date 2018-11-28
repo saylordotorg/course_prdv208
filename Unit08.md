@@ -106,7 +106,7 @@ id="8.1.1"></span> 
 
 -   **Activity: The Saylor Foundation’s “Database Creation Practice”**
     Instructions: Enter the data in [this
-    image](https://resources.saylor.org/archived/wp-content/uploads/2013/01/MyFirstDB.png)
+    image](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/MyFirstDB.png)
     (PNG) into a database table using the steps in the previous video.  
       
      Save the database file as “MyFirstDB.”  
